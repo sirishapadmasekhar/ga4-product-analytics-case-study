@@ -1,5 +1,3 @@
-# GA4 Product Analytics Case Study
-
 # GA4 Product Analytics Dashboard
 
 ## Overview
@@ -7,6 +5,12 @@
 This project is an end-to-end product analytics case study built using the Google Analytics 4 (GA4) Sample Ecommerce dataset. The goal was to transform raw event-level data into actionable business insights using SQL in BigQuery and visualise those findings through an interactive Looker Studio dashboard.
 
 The analysis focuses on understanding customer acquisition, conversion behaviour, product performance, and retention patterns to identify opportunities for improving ecommerce performance.
+
+---
+
+## Dashboard Access
+
+[View Interactive Dashboard](https://datastudio.google.com/reporting/b88c5fba-3b2d-4950-8bf2-068f38c08480)
 
 ---
 
@@ -20,23 +24,6 @@ The objective of this project was to answer key business questions, including:
 * Which products attract attention but fail to convert?
 * How many sessions do customers typically require before purchasing?
 * How effectively are customers retained over time?
-
----
-
-## Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](images/page1.png)
-
-### Product Performance
-
-![Product Performance](images/page2.png)
-
-### Customer Behaviour
-
-![Customer Behaviour](images/page3.png)
-
 ---
 
 ## Dataset
@@ -193,14 +180,6 @@ Use remarketing campaigns and targeted incentives to encourage purchases within 
 ### Strengthen Retention Strategies
 
 Develop post-purchase engagement initiatives and reactivation campaigns to improve repeat customer activity.
-
----
-
-## Dashboard Access
-
-Interactive Dashboard:
-
-[https://datastudio.google.com/reporting/b88c5fba-3b2d-4950-8bf2-068f38c08480]
 
 ---
 
